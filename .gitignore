@@ -1,0 +1,7 @@
+# Java class files
+*.class
+
+# input files
+*in1
+*in2
+*in3
