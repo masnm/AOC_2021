@@ -2,6 +2,16 @@
 *.class
 
 # input files
+*in
 *in1
 *in2
 *in3
+
+# C/C++ executable
+*.out
+
+# Some random output file
+*out1
+*out2
+*out3
+*out
